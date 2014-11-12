@@ -1,0 +1,9 @@
+{
+    "exe": "test_device.py", 
+    "protocol": "zwave", 
+    "name": "Dummy test device", 
+    "url": "https://github.com/ContinuumBridge/test_dvice/archive/v0.2.1.tar.gz", 
+    "version": "0.2.1", 
+    "provider": "ContinuumBridge", 
+    "description": "Test device"
+}
